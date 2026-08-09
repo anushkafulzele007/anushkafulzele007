@@ -1,16 +1,13 @@
-## Hi 👋, I'm Anushka Fulzele
+# 💫 Hi 👋, I'm Anushka Fulzele
+**A Electrical Engineering student|| Aspiring Data Analyst || Tech Enthusiast**
 
-<!--
-**anushkafulzele007/anushkafulzele007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Email Me 👉 ✉️ **anushkafulzele700@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 **I’m currently working on:** Academic and engineering projects
+- 🌱 **I’m currently learning:** Python, C, Data Analytics, MATLAB & circuit simulation
+- 👯 **I’m looking to collaborate on:** Enter your project name and info
+- 🤔 **I’m looking for help with:** Improving my programming and technical skills 
+- 💬 **Ask me about:** Electrical Engineering, C programming, Python & Data Analytics
+- 📫 **How to reach me:** anushkafulzele700@gmail.com
+- 😄 **Pronouns:** Anushka
+- ⚡ **Fun fact:** enjoy learning new technologies and turning into projects
