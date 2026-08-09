@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi 👋, I'm Anushka Fulzele
 
 <!--
 **anushkafulzele007/anushkafulzele007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
